@@ -1,2 +1,1 @@
-smutnyleszek.github.io
-======================
+A simple, styleless, website with links
